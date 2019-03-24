@@ -1,0 +1,36 @@
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\bin\Debug\textRunner.exe
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\bin\Debug\textRunner.pdb
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\bin\Debug\textRunner.xml
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.frm_textRunner.resources
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\obj\x86\Debug\textRunner.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\obj\x86\Debug\textRunner.exe
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\obj\x86\Debug\textRunner.xml
+C:\Users\Gabriel\documents\visual studio 2010\Projects\textRunner\textRunner\obj\x86\Debug\textRunner.pdb
+F:\textRunner\textRunner\obj\x86\Debug\textRunner.exe
+F:\textRunner\textRunner\obj\x86\Debug\textRunner.xml
+F:\textRunner\textRunner\obj\x86\Debug\textRunner.pdb
+F:\textRunner\textRunner\bin\Debug\textRunner.exe
+F:\textRunner\textRunner\bin\Debug\textRunner.pdb
+F:\textRunner\textRunner\bin\Debug\textRunner.xml
+F:\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.frm_textRunner.resources
+F:\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\textRunner\textRunner\obj\x86\Debug\textRunner.vbproj.GenerateResource.Cache
+G:\textRunner\textRunner\obj\x86\Debug\textRunner.exe
+G:\textRunner\textRunner\obj\x86\Debug\textRunner.xml
+G:\textRunner\textRunner\obj\x86\Debug\textRunner.pdb
+G:\textRunner\textRunner\bin\Debug\textRunner.exe
+G:\textRunner\textRunner\bin\Debug\textRunner.pdb
+G:\textRunner\textRunner\bin\Debug\textRunner.xml
+G:\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.frm_textRunner.resources
+G:\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\textRunner\textRunner\obj\x86\Debug\textRunner.vbproj.GenerateResource.Cache
+E:\textRunner\textRunner\obj\x86\Debug\textRunner.exe
+E:\textRunner\textRunner\obj\x86\Debug\textRunner.xml
+E:\textRunner\textRunner\obj\x86\Debug\textRunner.pdb
+E:\textRunner\textRunner\bin\Debug\textRunner.exe
+E:\textRunner\textRunner\bin\Debug\textRunner.pdb
+E:\textRunner\textRunner\bin\Debug\textRunner.xml
+E:\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.frm_textRunner.resources
+E:\textRunner\textRunner\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\textRunner\textRunner\obj\x86\Debug\textRunner.vbproj.GenerateResource.Cache
