@@ -13,8 +13,7 @@
     Dim gameOerSwitchTic As Integer = 0
 
 
-
-    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnStart.Click
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnStart.Click
         newRound = True
         isrunning = True
         GameOvar.Enabled = False
@@ -26,8 +25,6 @@
         RichTextBox1.Text = strInLine
         map = Split(strInLine, "|")
         GameLoopTimer.Enabled = True
-
-
     End Sub
 
 
@@ -46,7 +43,6 @@
                 newRound = False
             Else
                 GameLoopTimer.Enabled = False
-
 
                 Return False
                 Exit Function
@@ -99,28 +95,17 @@
             '3.rebuild string
             buildString()
 
-
-
             '3.redraw
             RichTextBox1.Text = strInLine
             RichTextBox1.Lines(currentLine + 3) += RichTextBox1.Lines(currentLine).Insert(12 + direction, player)
 
-
         End If
-
-
     End Sub
-
-
-
-
 
     Private Sub TextBox1_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txtHiddenControl.KeyDown
         Select Case e.KeyCode
             Case Keys.NumPad4
-
                 direction += -1
-
             Case Keys.NumPad6
                 direction += 1
         End Select
@@ -129,7 +114,6 @@
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         txtHiddenControl.Focus()
-
     End Sub
 
     Public Sub gameOver()
@@ -139,16 +123,10 @@
         RichTextBox1.Text = strGAMEOVER
         arGameOvar = Split(strGAMEOVER, "|")
 
-
-
         GameOvar.Enabled = True
     End Sub
 
     Private Sub GameOvar_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GameOvar.Tick
-
-
-
-
         gameOver()
         rebuildGAMEOVERstr()
     End Sub
@@ -162,8 +140,6 @@
                 strGAMEOVER = strGAMEOVER.Replace("OVER", "GAME")
                 gameOerSwitchTic = 1
         End Select
-
-
     End Sub
 
 End Class
